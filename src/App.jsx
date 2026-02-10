@@ -164,7 +164,7 @@ bg-clip-text text-transparent leading-tight"
           </h1>
 
           <h2 className="text-lg sm:text-xl md:text-2xl text-slate-300 mb-4 font-normal">
-            Software Engineer • SQA Engineer • Backend Development • Project Manager
+            Software Engineer • SQA Engineer • Backend Developer • Project Manager
           </h2>
 
           <p className="text-sm sm:text-base text-slate-400 mb-8 max-w-2xl mx-auto leading-relaxed">
